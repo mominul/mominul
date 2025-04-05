@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I am Md. Mominul Huque, currently pursuing BSc in Computer Science and Engineering degree at [University of Asia Pacific](https://www.uap-bd.edu/). I am an open-source enthusiast looking to solve real-world problems with code. I like to build stuff that comes for the betterment of other people and makes their life easier.
+I'm Md. Mominul Huque — a Computer Science and Engineering graduate from the University of Asia Pacific.
+
+ 🎯 I'm an open-source enthusiast passionate about solving real-world problems through code.
+
+ 🚀 I love building tools that make people’s lives easier and contribute to meaningful change.
 
  Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
@@ -13,8 +17,7 @@ I am Md. Mominul Huque, currently pursuing BSc in Computer Science and Engineeri
 ## ⚡ Projects
 
 * [**OpenBangla Keyboard**](https://openbangla.github.io): A popular open source, Unicode compliant, Bengali input method for GNU/Linux systems. It’s a full-fledged Bangla input method with many famous typing methods and typing automation tools.
-* [**poriborton**](https://github.com/OpenBangla/poriborton): A Rust library for Inter-conversion between Unicode and various
-Bengali ANSI encodings.
+* [**PackHub**](https://github.com/mominul/packhub)): Decentralized Package Repositories for Linux Distributions. Written in Rust and with Axum web framework.
 
 ## ⚡ Technologies
 
