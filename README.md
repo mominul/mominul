@@ -17,7 +17,7 @@ I'm Md. Mominul Huque — a Computer Science and Engineering graduate from the U
 ## ⚡ Projects
 
 * [**OpenBangla Keyboard**](https://openbangla.github.io): A popular open source, Unicode compliant, Bengali input method for GNU/Linux systems. It’s a full-fledged Bangla input method with many famous typing methods and typing automation tools.
-* [**PackHub**](https://github.com/mominul/packhub)): Decentralized Package Repositories for Linux Distributions. Written in Rust and with Axum web framework.
+* [**PackHub**](https://github.com/mominul/packhub): Decentralized Package Repositories for Linux Distributions. Written in Rust and with Axum web framework.
 
 ## ⚡ Technologies
 
